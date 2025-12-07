@@ -8,13 +8,16 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="mailto:fahidnasir@hotmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+        <img src="https://img.shields.io/badge/Email-teal?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://linkedin.com/in/fahidnasir">
-        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logoColor=white&logo=linkedin" alt="Linkedin">
+        <img src="https://img.shields.io/badge/Linkedin-teal?style=flat-square&logoColor=white&logo=logmein" alt="Linkedin">
     </a>
     <a href="https://www.kaggle.com/nfahid">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Kaggle-teal?style=flat-square&logo=kaggle" alt="Kaggle">
+    </a>
+    <a href="https://topt.al/M6ceBQ">
+        <img src="https://img.shields.io/badge/Toptal-teal?style=flat-square&logo=toptal" alt="Toptal">
     </a>
 </p>
 
